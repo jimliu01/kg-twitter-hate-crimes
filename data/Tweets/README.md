@@ -1,5 +1,5 @@
 
-/bigbabies/ (not included for confidentiality)
+`/bigbabies/` (not included for confidentiality)
 - `bigbaby_og.csv`: original csv containing all 28 million, after combining from /csv/ folder
 - `bigbaby.csv`: same as og but removing some ~50k corrupted rows
 - `bigbaby_all.csv`: filtering `bigbaby.csv` by keywords given in `/keywords/asian.txt`, `/keywords/black.txt`, `/keywords/hispanic.txt`, `/keywords/jewish.txt`, and `/keywords/lgbt.txt`
@@ -9,7 +9,7 @@
 - `bigbaby_r_t_30.csv`: multiple topics modeling on `bigbaby_r.csv` with `min_topic_size=30`
 
 
-/topics/
+`/topics/`
 - `bigbaby_all_docs.csv`: `get_document_info()` on the `bigbaby_all_t.csv` topic model (not included due to size)
 - `bigbaby_all_tops.csv`: `get_topic_info()` on the `bigbaby_all_t.csv` topic model (not included due to size)
 - `bigbaby_r_docs.csv`: `get_document_info()` on the `bigbaby_r_t.csv` topic model
@@ -18,7 +18,7 @@
 - `bigbaby_r_30_tops.csv`: `get_topic_info()` on the `bigbaby_r_t_30.csv` topic model
 
 
-/keywords/
+`/keywords/`
 - `asian.txt`: list of asian keywords
 - `black.txt`: list of black keywords
 - `hispanic.txt`: list of hispanic keywords
