@@ -9,7 +9,7 @@ Our research aims to use comprehensive data-driven and network methods to invest
 ## Paper
 Include a link to our paper **here**.
 
-## Structure of the Repository
+## Repo Structure
 
 - `/data/` contains information about our two primary sources of data: Tweets and FBI Hate Crime Data.
 - `/KG/` contains notebooks used to construct and analyze the knowledge graph. Also includes saved triples for each group.
