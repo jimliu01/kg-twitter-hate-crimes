@@ -6,13 +6,11 @@ In the wake of escalating racial tensions and surges in xenophobia in the afterm
 
 Our research aims to use comprehensive data-driven and network methods to investigate whether there exists a correlation between the characteristics of online discourse (such as sentiment and topic of the comments) and the frequency and nature of hate crimes.
 
-## Data Sources
+## Paper:
+Include a link to our paper **here**.
 
-Our investigation is built upon two primary sources of data:
+## Structure of the Repository
 
-1. **Tweets:** A representative sample of online discourse.
-2. **FBI Crime Data:** Comprehensive hate crime data drawn from the FBI Crime Data Explorer.
-
-We limit our analysis to the state of California, focusing on the five most targeted minority groups during March to December 2020.
-
-
+- `data` contains information about our two primary sources of data: Tweets and FBI Hate Crime Data.
+- `KG` contains notebooks used to construct and analyze the knowledge graph. Also includes saved triples for each group.
+- `user network` contains notebooks used to construct and analyze user networks. Also includes code for visualizations and further work on user communities.
