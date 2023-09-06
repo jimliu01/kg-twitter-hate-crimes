@@ -1,6 +1,6 @@
 ## Introduction
 
-In the wake of escalating racial tensions and surges in xenophobia in the aftermath of COVID-19, hate crimes directed toward marginalized communities have emerged as a poignant issue within the United States [1]. Meanwhile, online social media has become a hotbed of discourse around LGBTQIA+ issues, religious debates, and racial topics, which escalated in intensity and frequency following major societal events such as George Floyd’s death and the outbreak of the pandemic [2]. Our study investigates the subtle, yet important, relationships between online discourse and hate crimes.
+In the wake of escalating racial tensions and surges in xenophobia in the aftermath of COVID-19, hate crimes directed toward marginalized communities have emerged as a poignant issue within the United States. Meanwhile, online social media has become a hotbed of discourse around LGBTQIA+ issues, religious debates, and racial topics, which escalated in intensity and frequency following major societal events such as George Floyd’s death and the outbreak of the pandemic. Our study investigates the subtle, yet important, relationships between online discourse and hate crimes.
 
 ## Research Objectives
 
