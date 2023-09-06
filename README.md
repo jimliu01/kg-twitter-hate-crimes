@@ -6,7 +6,7 @@ In the wake of escalating racial tensions and surges in xenophobia in the afterm
 
 Our research aims to use comprehensive data-driven and network methods to investigate whether there exists a correlation between the characteristics of online discourse (such as sentiment and topic of the comments) and the frequency and nature of hate crimes.
 
-## Paper:
+## Paper
 Include a link to our paper **here**.
 
 ## Structure of the Repository
