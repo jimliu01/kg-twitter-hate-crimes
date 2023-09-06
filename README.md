@@ -11,6 +11,6 @@ Include a link to our paper **here**.
 
 ## Structure of the Repository
 
-- `data` contains information about our two primary sources of data: Tweets and FBI Hate Crime Data.
-- `KG` contains notebooks used to construct and analyze the knowledge graph. Also includes saved triples for each group.
-- `user network` contains notebooks used to construct and analyze user networks. Also includes code for visualizations and further work on user communities.
+- `/data/` contains information about our two primary sources of data: Tweets and FBI Hate Crime Data.
+- `/KG/` contains notebooks used to construct and analyze the knowledge graph. Also includes saved triples for each group.
+- `/user network/` contains notebooks used to construct and analyze user networks. Also includes code for visualizations and further work on user communities.
